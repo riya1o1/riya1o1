@@ -6,6 +6,11 @@
 </p>
 
 ---
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=riya1o1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <div style="background-color:#e6f7ff; padding: 20px; border-radius: 10px;">
   
@@ -73,6 +78,7 @@ Contains ML and data analysis mini-projects done during a virtual internship.
 </div>
 
 ---
+
 <div style="background-color:#f0f4c3; padding: 20px; border-radius: 10px;">
 
 ### 🎯 Career Goals
@@ -85,6 +91,7 @@ I'm currently looking for:
 I aim to contribute to innovative projects in data-driven domains, and I’m excited to grow in fast-paced, collaborative environments.
 
 </div>
+
 ---
 
 <div style="background-color:#f0f4c3; padding: 20px; border-radius: 10px;">
@@ -92,7 +99,6 @@ I aim to contribute to innovative projects in data-driven domains, and I’m exc
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya1o1&show_icons=true&theme=vue&count_private=true&hide_title=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya1o1&layout=compact&theme=vue&langs_count=6" height="160"/>
 </p>
 
