@@ -90,7 +90,7 @@ Let’s connect if you’re looking for someone with technical skill and a growt
 ### 📈 GitHub Stats
 
 <p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=riya1o1&show_icons=true&theme=vue&count_private=true&hide_title=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya1o1&layout=compact&theme=vue&langs_count=6" height="160"/>
 </p>
 
