@@ -36,7 +36,6 @@
 **Web Development:**  
 `PHP` `Flask` `XAMPP`
 
-
 </div>
 
 ---
@@ -62,7 +61,7 @@ Contains ML and data analysis mini-projects done during a virtual internship.
 
 ### 🏅 Achievements & Certifications
 
-- 🎓 CGPA: **9.1/10**  
+- 🎓 CGPA: **9.16/10**  
 - 💼 **Deloitte Virtual Internship**  
 - 💼 **CodSoft Data Science Internship (Apr '25)**  
 - 👩‍💻 Member of **Pragati Cohort 5** (Data Science Track)  
@@ -74,25 +73,30 @@ Contains ML and data analysis mini-projects done during a virtual internship.
 </div>
 
 ---
+<div style="background-color:#f0f4c3; padding: 20px; border-radius: 10px;">
+
+### 🎯 Career Goals
+
+I'm currently looking for:
+- 📊 **Data Analyst Internships**
+- 🧠 **ML/AI Research Internships**
+- 🌐 **Web Developer roles (Full Stack or Backend)**
+
+I aim to contribute to innovative projects in data-driven domains, and I’m excited to grow in fast-paced, collaborative environments.
+
+</div>
+---
 
 <div style="background-color:#f0f4c3; padding: 20px; border-radius: 10px;">
 
-I’m seeking:
-- 📊 Data Analyst internships  
-- 🧠 ML/AI Research Projects  
-- 🌐 Full Stack Development roles
-
-Let’s connect if you’re looking for someone with technical skill and a growth mindset!
-
-</div>
-
----
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riya1o1&show_icons=true&theme=vue&count_private=true&hide_title=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya1o1&layout=compact&theme=vue&langs_count=6" height="160"/>
 </p>
+
+</div>
 
 ---
 
@@ -112,3 +116,4 @@ Let’s connect if you’re looking for someone with technical skill and a growt
   <i>“The best way to learn is to build. That’s what I do.”</i><br>
   <b>– Riya Singh</b>
 </p>
+
