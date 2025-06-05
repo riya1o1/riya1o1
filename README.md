@@ -87,6 +87,14 @@ Let’s connect if you’re looking for someone with technical skill and a growt
 </div>
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya1o1&layout=compact&theme=vue&langs_count=6" height="160"/>
+</p>
+
+---
 
 <div style="background-color:#e1f5fe; padding: 20px; border-radius: 10px;">
 
