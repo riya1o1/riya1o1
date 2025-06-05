@@ -51,9 +51,6 @@ Web-based scheduling system using PHP & MySQL for automating class timetable gen
 #### 🧠 [Brain Tumor Detection Using CNN](https://github.com/riya1o1/Brain-Tumor-Detection-Using-CNN)  
 Detects brain tumors from MRI scans using CNNs and deep learning techniques.
 
-#### 🖼️ [CycleGAN: Horse → Zebra](https://github.com/riya1o1/CycleGAN)  
-Unpaired image-to-image translation using GANs on the Horse2Zebra dataset.
-
 #### 📁 [CodSoft Internship Tasks](https://github.com/riya1o1/CodSoft-DataScience)  
 Contains ML and data analysis mini-projects done during a virtual internship.
 
@@ -80,12 +77,12 @@ Contains ML and data analysis mini-projects done during a virtual internship.
 
 <div style="background-color:#f0f4c3; padding: 20px; border-radius: 10px;">
 
-### 📈 GitHub Stats
+I’m seeking:
+- 📊 Data Analyst internships  
+- 🧠 ML/AI Research Projects  
+- 🌐 Full Stack Development roles
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya1o1&show_icons=true&theme=vue&count_private=true&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya1o1&layout=compact&theme=vue&langs_count=6" height="160"/>
-</p>
+Let’s connect if you’re looking for someone with technical skill and a growth mindset!
 
 </div>
 
