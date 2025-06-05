@@ -66,7 +66,7 @@ Contains ML and data analysis mini-projects done during a virtual internship.
 
 ### 🏅 Achievements & Certifications
 
-- 🎓 CGPA: **9.16/10**  
+- 🎓 CGPA: **9.1/10**  
 - 💼 **Deloitte Virtual Internship**  
 - 💼 **CodSoft Data Science Internship (Apr '25)**  
 - 👩‍💻 Member of **Pragati Cohort 5** (Data Science Track)  
