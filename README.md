@@ -52,10 +52,10 @@
 #### 📅 [Timetable Generator](https://github.com/riya1o1/Timetable-generator)  
 Web-based scheduling system using PHP & MySQL for automating class timetable generation.
 
-#### 🧠 [Brain Tumor Detection Using CNN](https://github.com/riya1o1/Brain-Tumor-Detection-Using-CNN)  
+#### 🧠 [Brain Tumor Detection Using CNN](https://github.com/riya1o1/Brain-Tumor-Detection)  
 Detects brain tumors from MRI scans using CNNs and deep learning techniques.
 
-#### 📁 [CodSoft Internship Tasks](https://github.com/riya1o1/CodSoft-DataScience)  
+#### 📁 [CodSoft Internship Tasks](https://github.com/riya1o1/CODSOFT)  
 Contains ML and data analysis mini-projects done during a virtual internship.
 
 </div>
