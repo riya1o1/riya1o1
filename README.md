@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring Data Analyst | ML & Deep Learning Enthusiast | Full Stack Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=B.E.+Student+%7C+ISE+@DSCE;Data+Science+%7C+Python+%7C+SQL+%7C+ML;Building+AI+%2B+Web+projects+that+solve+real+problems" alt="Typing SVG" />
 </p>
 
 ---
