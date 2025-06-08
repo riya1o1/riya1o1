@@ -112,6 +112,7 @@ I aim to contribute to innovative projects in data-driven domains, and I’m exc
 - 💼 [LinkedIn](https://linkedin.com/in/riya-singh-8682b4261)
 - 📧 [Email](mailto:mailriya1o1@gmail.com)
 - 🌐 [GitHub Portfolio](https://github.com/riya1o1)
+- 💼 [Leetcode](https://leetcode.com/u/mailriya1o1)
 
 </div>
 
