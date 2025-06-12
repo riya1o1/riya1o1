@@ -59,18 +59,7 @@ Contains ML and data analysis mini-projects done during a virtual internship.
 
 </div>
 
----
-## 🚀 Digital Nurture 4.0 – Java FSE Program
 
-![Java](https://img.shields.io/badge/Java-FullStack-blue)
-![Spring](https://img.shields.io/badge/SpringBoot-Microservices-green)
-![Status](https://img.shields.io/badge/Progress-Week%201-yellow)
-
-📘 Hands-on exercises & solutions from Cognizant's Digital Nurture 4.0 Java FSE Program.
-
-🔗 **[Click to View Repository](https://github.com/your-username/DN4.0-JavaFSE)**
-
----
 <div style="background-color:#fce4ec; padding: 20px; border-radius: 10px;">
 
 ### 🏅 Achievements & Certifications
