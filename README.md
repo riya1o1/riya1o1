@@ -112,7 +112,7 @@ I aim to contribute to innovative projects in data-driven domains, and I’m exc
 - 📧 [Email](mailto:mailriya1o1@gmail.com)
 - 🌐 [GitHub Portfolio](https://github.com/riya1o1)
 - 💼 [Leetcode](https://leetcode.com/u/mailriya1o1)
-
+- 📧 [Resume](https://drive.google.com/drive/u/0/folders/1hYOg-63mOS3TZ433K-oc_c6ZdVYGTTdz)
 </div>
 
 ---
